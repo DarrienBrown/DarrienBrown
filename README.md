@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarrienBrown
-- 👀 I’m interested in health and wellness  
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in all things STEM
+- 🌱 I’m currently learning to become a full-stack developer
 - 📫 How to reach me ...
 
 <!---
